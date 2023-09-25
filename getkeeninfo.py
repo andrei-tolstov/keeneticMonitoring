@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 # Get keenetic info telnet
 # Used for Zabbix Scripts
-# parametr 1 == command desc or link or SSID
-# parametr 2 == ip
+# parametr 2 == command desc or link or SSID
+# parametr 1 == ip
 
 
 from scrapli.driver import GenericDriver
